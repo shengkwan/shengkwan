@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shengkwan
+- 👋 Hi, I’m Sheng Kwan
 - 👀 I’m interested in Cloud Computing, Data Science and Analytics and various other digital technologies
 - 🌱 I’m currently learning SQL, Tableau, and Microsoft Azure
 - 📫 How to reach me: Email: jaykeytonne90091@gmail.com
